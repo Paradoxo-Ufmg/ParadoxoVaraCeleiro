@@ -1,5 +1,6 @@
 # ParadoxoVaraCeleiro
-O programa em questão é um código desenvolvido utilizando conceitos de calculo numérico para simular o paradoxo da vara e do celeiro da teoria da relatividade restrita.
+O programa em questão é um código desenvolvido utilizando conceitos de calculo numérico para simular o paradoxo da vara e do celeiro da teoria da relatividade restrita, nosso objetivo com esse programa é mostrar que esse que esse fenômeno na verdade se trata de um falso paradoxo, mostrando que ocorre uma quebra na simultaneidade ou seja
+que o fenômeno está ocorrendo em intervalos de tempo diferentes.
 
 Para que você possa utilizar esse programa, antes você terá que baixar o compilador da linguagem C, caso você esteja programando no Linux, você não precisa baixar
 o compilador, pois o Linux já possui o compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, você também terá que baixar um IDE, pode baixar a que você se sentir mais confortável.
