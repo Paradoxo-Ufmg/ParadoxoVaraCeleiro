@@ -5,7 +5,7 @@ que o fenômeno está ocorrendo em intervalos de tempo diferentes.
 Para que você possa utilizar esse programa, antes você terá que baixar o compilador da linguagem C, caso você esteja programando no Linux ou em MacOs, você não precisa baixar
 o compilador, pois o Linux e o MacOs já possuem um compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, você também terá que baixar uma IDE, pode baixar a que você se sentir mais confortável.
 
-Caso ocorra o de você não conseguir compilar e executar o código ela sua IDE, você pode usar o prompt de comando, usando o prompt de comando você vai até o local onde
+Caso ocorra de você não conseguir compilar e executar o código ela sua IDE, você pode usar o prompt de comando, usando o prompt de comando você vai até o local onde
 se encontra o código que você que você quer compilar e executar, usando o comando: gcc nomeArquivo.c, você vai compilar o código, após compilar, você executa o código
 compilado digitando a.exe, OBS: apenas será possível usar o comando gcc tendo o MinGW, caso use outro compilador vai ser diferente.
 
