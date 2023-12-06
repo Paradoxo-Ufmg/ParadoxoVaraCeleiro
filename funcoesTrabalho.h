@@ -224,8 +224,8 @@ void simultaneidade(double comprimentoVara, double comprimentoCeleiro, double co
     double tempoEsquerdaVara = distanciaPontaEsquerda / velocidade;
 
     // Simultaneidade Celeiro
-    double distanciaPortaDireita = 10 + comprimentoVaraOriginal;
-    double distanciaPortaEsquerda = 10 + comprimentoCeleiro;
+    double distanciaPortaDireita = 10 + comprimentoCeleiro;
+    double distanciaPortaEsquerda = 10 + comprimentoVaraOriginal;
 
     double tempoDireitaCeleiro = distanciaPortaDireita / velocidade;
     double tempoEsquerdaCeleiro = distanciaPortaEsquerda / velocidade;
