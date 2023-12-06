@@ -27,3 +27,5 @@ As três funções seguintes, ficam sendo a função que calcula a velocidade pa
 Para a criação dessa última função, foi medido o tempo em que a ponta direita da vara demora para chegar na porta direita do celeiro, e o tempo que a ponta esquerda
 da vara demora para chegar na porta esquerda do celeiro, foi considerado que a distância entre os dois objetos eram de dez metros, o mesmo foi calculado, mas partindo
 que o objeto que vai estar se movimentando é o celeiro e não a vara, no final ele mostra o tempo em segundos e diz se teve ou não simulataneidade.
+
+Além desse programa, foi criada uma simulação usando o vpython, caso você queira modificar o código, você terá que instalar a biblioteca vpython, você pode ir direto no site e baixar a biblioteca ou pode baixar pelo prompt usando o comando: pip install vpython, mas caso isso não funcione você pode ir no site https://www.glowscript.org/, onde basta criar uma conta e você poderá usar o vpython de forma online sem precisar baixar nada.
