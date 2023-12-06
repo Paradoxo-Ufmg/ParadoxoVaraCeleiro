@@ -3,11 +3,12 @@ O programa em questão é um código desenvolvido utilizando conceitos de calcul
 que o fenômeno está ocorrendo em intervalos de tempo diferentes.
 
 Para que você possa utilizar esse programa, antes você terá que baixar o compilador da linguagem C, caso você esteja programando no Linux ou em MacOs, você não precisa baixar
-o compilador, pois o Linux e o MacOs já possuem um compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, você também terá que baixar uma IDE, pode baixar a que você se sentir mais confortável.
+o compilador, pois o Linux e o MacOs já possuem um compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, em caso de dúvidas o video ao lado te ensinará a como baixar e instalar esse compilador: https://bit.ly/Instalar_Mingw, você também terá que baixar uma IDE, pode baixar a que você se sentir mais confortável.
 
 Caso ocorra de você não conseguir compilar e executar o código na sua IDE, você pode usar o prompt de comando, usando o prompt de comando você vai até o local onde
 se encontra o código que você quer compilar e executar, usando o comando: gcc nomeArquivo.c, você vai compilar o código, após compilar, você executa o código
-compilado digitando a.exe, OBS: apenas será possível usar o comando gcc tendo o MinGW, caso use outro compilador vai ser diferente.
+compilado digitando a.exe, OBS: apenas será possível usar o comando gcc tendo o MinGW, caso use outro compilador vai ser diferente, em caso de eventuais dúvidas o video 
+a seguir te auxiliará: https://bit.ly/usando_gcc_com_prompt_de_comando.
 
 Para o desenvolvimento do programa, foi optado pelo código modularizado, foi criado um arquivo com as funções e outro arquivo com o código principal.
 No desenvolvimento do código foram criadas oito funções, foi criado duas funções que me retornam duas expressões algébricas, a primeira é para o fator de Lorentz 
