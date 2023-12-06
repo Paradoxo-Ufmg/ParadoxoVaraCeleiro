@@ -2,8 +2,8 @@
 O programa em questão é um código desenvolvido utilizando conceitos de calculo numérico para simular o paradoxo da vara e do celeiro da teoria da relatividade restrita, nosso objetivo com esse programa é mostrar que esse que esse fenômeno na verdade se trata de um falso paradoxo, mostrando que ocorre uma quebra na simultaneidade ou seja
 que o fenômeno está ocorrendo em intervalos de tempo diferentes.
 
-Para que você possa utilizar esse programa, antes você terá que baixar o compilador da linguagem C, caso você esteja programando no Linux, você não precisa baixar
-o compilador, pois o Linux já possui o compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, você também terá que baixar um IDE, pode baixar a que você se sentir mais confortável.
+Para que você possa utilizar esse programa, antes você terá que baixar o compilador da linguagem C, caso você esteja programando no Linux ou em MacOs, você não precisa baixar
+o compilador, pois o Linux e o MacOs já possuem um compilador de forma nativa, caso você esteja utilizando o Windows você terá que baixar o compilador MinGw, você também terá que baixar uma IDE, pode baixar a que você se sentir mais confortável.
 
 Para o desenvolvimento do programa, foi optado pelo código modularizado, foi criado um arquivo com as funções e outro arquivo com o código principal.
 No desenvolvimento do código foram criadas oito funções, foi criado duas funções que me retornam duas expressões algébricas, a primeira é para o fator de Lorentz 
